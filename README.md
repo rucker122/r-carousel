@@ -1,6 +1,6 @@
 # R Carousel
 
-## supoort PC and mobile device
+## support PC and mobile device
 
 ## codepen preview: https://codepen.io/rucker122/pen/jOzrjqK
 
